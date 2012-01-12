@@ -1,0 +1,5 @@
+== INSTALLATION ==
+require_once( "$IP/extensions/GetUserGroups/GetUserGroups.php" );
+
+== USAGE ==
+{{USERGROUPS}}
